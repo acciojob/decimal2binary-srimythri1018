@@ -1,4 +1,6 @@
-    let binaryNum = new Array(32);
+    function decToBinary(n)
+{
+	let binaryNum = new Array(32);
  
     // counter for binary array
     let i = 0;
